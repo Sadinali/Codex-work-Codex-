@@ -1,0 +1,9 @@
+prefix,priority,must_cc,owner,sla_hours
+GOV,P0,cn_gm@example.com;mt_gm@example.com;compliance@example.com,compliance@example.com,2
+GOV,P1,cn_gm@example.com;legal@example.com,legal@example.com,24
+FIN,P0,cn_gm@example.com;finance_cn@example.com;finance_mt@example.com,finance_manager@example.com,4
+FIN,P1,finance_cn@example.com;finance_mt@example.com,finance_manager@example.com,24
+OPS,P1,ops_cn@example.com;ops_mt@example.com,ops_manager@example.com,24
+COM,P2,sales_cn@example.com;sales_mt@example.com,sales_manager@example.com,48
+CUS,P1,customer_success@example.com;ops_cn@example.com,customer_success@example.com,24
+INT,P2,team_all@example.com,project_manager@example.com,72
