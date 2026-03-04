@@ -19,6 +19,7 @@ python nihao.py
 已新增新手友好的落地指南文档：
 
 - `docs/email-ops-bot-codex-guide.md`
+- `docs/ai-email-classification-codex-prompts.md`（接入 AI 分类与 Codex 协作模板）
 
 该文档包含：标签体系、SLA、路由矩阵、三行摘要模板、实施路线，以及如何一步步向 Codex 下达任务。
 
