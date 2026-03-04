@@ -1,0 +1,37 @@
+[
+  {
+    "message_id": "m001",
+    "sender": "vat.office@gov.mt",
+    "subject": "VAT filing deadline notice",
+    "body": "Please submit VAT declaration by 2026-03-15. Non-compliance may trigger penalties.",
+    "received_at": "2026-03-01T09:15:00"
+  },
+  {
+    "message_id": "m002",
+    "sender": "invoice@bank-malta.com",
+    "subject": "Urgent payment request for March utilities",
+    "body": "Invoice attached. Please pay by 2026-03-05.",
+    "received_at": "2026-03-01T10:45:00"
+  },
+  {
+    "message_id": "m003",
+    "sender": "supplier@partsco.com",
+    "subject": "Delivery schedule update",
+    "body": "Operations delivery moved to next week.",
+    "received_at": "2026-03-01T11:00:00"
+  },
+  {
+    "message_id": "m004",
+    "sender": "hr@company.com",
+    "subject": "Internal meeting summary",
+    "body": "Weekly internal sync notes and next actions.",
+    "received_at": "2026-03-01T16:00:00"
+  },
+  {
+    "message_id": "m005",
+    "sender": "unknown@secure-gov-mt-alert.co",
+    "subject": "Immediate account verification required",
+    "body": "Click link now to verify your tax identity and avoid suspension.",
+    "received_at": "2026-03-01T17:20:00"
+  }
+]
